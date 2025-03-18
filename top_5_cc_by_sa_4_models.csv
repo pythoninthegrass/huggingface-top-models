@@ -1,0 +1,6 @@
+model_name,task,last_updated,likes,model_link
+replit/replit-code-v1-3b,Text Generation,Jul 21 2023,731,https://huggingface.co/replit/replit-code-v1-3b
+defog/sqlcoder-7b-2,Text Generation,Feb 12 2024,336,https://huggingface.co/defog/sqlcoder-7b-2
+stabilityai/stablelm-3b-4e1t,Text Generation,Mar 7 2024,310,https://huggingface.co/stabilityai/stablelm-3b-4e1t
+defog/llama-3-sqlcoder-8b,Text Generation,Jul 24 2024,226,https://huggingface.co/defog/llama-3-sqlcoder-8b
+defog/sqlcoder-70b-alpha,Text Generation,Jan 30 2024,222,https://huggingface.co/defog/sqlcoder-70b-alpha
